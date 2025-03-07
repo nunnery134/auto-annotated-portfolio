@@ -1,14 +1,13 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Basket bros
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+description: A game about nab finals you play against your freinds ai and radom people
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/basket-bros.1280x.85pc.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
