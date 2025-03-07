@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs46k10DdrEWHcWJF_CA-LWRXDSeae3V-5C-AgC1hMdmj4VvuzNPRxh_KM9lI7_ILOY4o&usqp=CAU
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -53,7 +53,7 @@ sections:
     actions:
       - type: Link
         label: See all projects
-        url: /projects
+        url: /projecs
     showDate: false
     showDescription: true
     showFeaturedImage: true
