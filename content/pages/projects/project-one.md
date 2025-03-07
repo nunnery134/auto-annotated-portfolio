@@ -4,7 +4,7 @@ title: Basket bros
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: A game about nab finals you play against your freinds ai and readom people
+description: A game about nab finals you play against your freinds ai and radom people
 featuredImage:
   type: ImageBlock
   url: /images/basket-bros.1280x.85pc.webp
