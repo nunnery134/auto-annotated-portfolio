@@ -123,16 +123,16 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+            label: Navis games v2
+            url: 'https://sites.google.com/student.pcsstn.net/navisgamesv2/home'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            label: navis games 1
+            url: 'https://sites.google.com/student.pcsstn.net/navisgame/home'
         styles:
           self:
             textAlign: left
