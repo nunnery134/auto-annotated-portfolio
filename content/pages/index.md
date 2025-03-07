@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: https://slidechef.net/wp-content/uploads/2023/10/Neon-Background.jpg
+  url: https://i.etsystatic.com/28921914/r/il/fe8d5d/4403737560/il_570xN.4403737560_o45k.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
