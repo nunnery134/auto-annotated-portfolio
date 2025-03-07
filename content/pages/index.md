@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs46k10DdrEWHcWJF_CA-LWRXDSeae3V-5C-AgC1hMdmj4VvuzNPRxh_KM9lI7_ILOY4o&usqp=CAU
+  url: [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs46k10DdrEWHcWJF_CA-LWRXDSeae3V-5C-AgC1hMdmj4VvuzNPRxh_KM9lI7_ILOY4o&usqp=CAU](https://www.google.com/search?q=neon+background&sca_esv=540846efa2b16f65&rlz=1CABJFL_enUS1140&udm=2&biw=1366&bih=768&ei=siPLZ73dHd_Np84PwrzjqQE&ved=0ahUKEwi9_sjLtviLAxXf5skDHULeOBUQ4dUDCBE&uact=5&oq=neon+background&gs_lp=EgNpbWciD25lb24gYmFja2dyb3VuZDIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIIEAAYgAQYsQMyBhAAGAcYHjIGEAAYBxgeMgYQABgHGB5InARQ_QFY_QFwAXgAkAEAmAFKoAFKqgEBMbgBA8gBAPgBAZgCAqACcMICChAAGIAEGEMYigXCAgUQABiABMICBBAAGB7CAgYQABgFGB7CAgYQABgIGB6YAwCIBgGSBwEyoAeABQ&sclient=img&safe=active&ssui=on#vhid=PKvpc8Xv_SDsFM&vssid=mosaic)
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
