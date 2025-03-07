@@ -81,6 +81,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Games
+    title: Games
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
