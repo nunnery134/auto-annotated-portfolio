@@ -4,7 +4,7 @@ title: Block blast
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: JUst play brp
+description: JUst play bro
 featuredImage:
   type: ImageBlock
   url: /images/71mDg3UjuqL.png
