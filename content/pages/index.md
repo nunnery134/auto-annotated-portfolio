@@ -93,6 +93,8 @@ sections:
         label: See all posts
         url: /blog
     posts:
+      - >-
+        content/pages/blog/Blacklisted-people-Jaxon-spivey-Autumn-abissio-Carmen-erwin.md
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
