@@ -2,9 +2,7 @@
 type: PostLayout
 title: Blacklist
 date: '2026-04-03'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: 'Autumn abisso, Jaxon spivey, ayla lyles, rlin polsten'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
